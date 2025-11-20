@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Antoine</h1>
+<h1 align="center">Hi 👋, I'm Antoine</h1>
 <h3 align="center">Career transition, to join the development wonderfull world !</h3>
 
 <!--
