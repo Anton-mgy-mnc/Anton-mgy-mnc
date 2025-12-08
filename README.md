@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Eco design project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **SCRUM Product Owner**
 
 - 📫 How to reach me: **antoine.mgy.mnc@gmail.com**
 
