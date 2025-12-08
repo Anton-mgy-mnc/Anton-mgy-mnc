@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Antoine</h1>
-<h3 align="center">Career transition, to join the development wonderfull world !</h3>
+<p align="center">
+  <img src="./assets/images/github-header-banner.png" alt="banner" />
+</p>
 
 <!--
 **Anton-mgy-mnc/Anton-mgy-mnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Eco design project**
+- 🔭 I’m currently working on **Agility Methods**
 
 - 🌱 I’m currently learning **SCRUM Product Owner**
 
